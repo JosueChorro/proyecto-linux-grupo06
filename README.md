@@ -8,11 +8,17 @@ Se integran prácticas de administración de sistemas, control de versiones y vi
 
 ## Estructura del proyecto
 /proyecto/
+
 ├── datos/
+
 ├── web/
+
 ├── scripts/
+
 ├── capturas/
+
 ├── Dockerfile
+
 └── README.md
 
 
